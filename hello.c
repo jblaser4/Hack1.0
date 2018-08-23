@@ -1,6 +1,6 @@
 /**
- * Author: Chris Bourke
- * Date: 2016/11/02
+ * Author: Jarrod Blaser
+ * Date: 2018/23/18
  *
  * A simple hello world program in C
  *
