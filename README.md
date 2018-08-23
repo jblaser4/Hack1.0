@@ -1,2 +1,2 @@
-# Hack1.0
-1st Hack
+https://github.com/jblaser4/Hack1.0
+Jarrod Blaser
